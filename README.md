@@ -7,5 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=expr01)](https://solved.ac/expr01)
 
+![Static Badge](https://img.shields.io/badge/Tistory-Dev.Std?logo=tistory&logoColor=%23000000)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expr01&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expr01&layout=compact)
