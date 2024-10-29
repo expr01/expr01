@@ -1,6 +1,6 @@
 ## Welcome to my Github 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Jihwan%20Jeon&textBg=false&fontColor=000000&fontAlign=73&fontAlignY=34&animation=fadeIn&desc=expr01&descAlign=92&descAlignY=49&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Jihwan%20Jeon&fontColor=000000&section=header&reversal=false&desc=expr01&descSize=22&descAlignY=67&fontAlign=50&fontAlignY=45)
 
 <!--소셜-->
 <div align=center><h1>😎 Social 😎</h1></div>
