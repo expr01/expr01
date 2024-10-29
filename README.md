@@ -30,6 +30,8 @@
 <h2 align=center>😎 Social 😎</h2>
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fexpr01&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
-  <img src="https://img.shields.io/badge/Dev.Std-%23FF5B4B?logo=tistory">
+  <a href="https://dev-expr01.tistory.com" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Dev.Std-%23E4405F?logo=Tistory&logoColor=%23FFFFFF&color=%23FF5A4A">
+  </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/jh__907-%23E4405F?logo=Instagram&logoColor=%23FFFFFF">
 </div>
