@@ -10,7 +10,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/jh__907-%23E4405F?logo=Instagram&logoColor=%23FFFFFF">
 </div>
 
+<div align=center><h1>:technologist: Tech Stack :technologist:</h1></div>
+
 <img src="http://mazandi.herokuapp.com/api?handle=expr01&theme=warm"/>
+<div align=center>
+  
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expr01&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expr01&layout=compact&hide=jupyter%20notebook)
