@@ -12,5 +12,5 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=expr01&theme=warm"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expr01&show_icons=true&theme=transparent&hide=jupyter%20notebook)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expr01&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=expr01&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expr01&layout=compact&hide=jupyter%20notebook)
